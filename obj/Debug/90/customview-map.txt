@@ -1,0 +1,141 @@
+@string/appbar_scrolling_view_behavior;obj\Debug\90\res\layout\activity_main.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+android.support.design.widget.CoordinatorLayout;obj\Debug\90\res\layout\account.xml
+android.support.design.widget.CoordinatorLayout;obj\Debug\90\res\layout\login.xml
+android.support.design.widget.CoordinatorLayout;obj\Debug\90\res\layout\register.xml
+android.support.design.widget.TextInputLayout;obj\Debug\90\res\layout\login.xml
+android.support.design.widget.TextInputLayout;obj\Debug\90\res\layout\register.xml
+android.support.v4.view.ViewPager;obj\Debug\90\res\layout\activity_main.xml
+android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\activity_main.xml
+attr;C:\Users\user\Desktop\3FinalAmbuTap\AmbuTap Driver\AmbuTap Driver\obj\Debug\90\lp\3\jl\res\values\values.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+bitmap;obj\Debug\90\res\drawable\splash.xml
+Button;obj\Debug\90\res\layout\account.xml
+Button;obj\Debug\90\res\layout\activity_main.xml
+Button;obj\Debug\90\res\layout\collect_payment.xml
+Button;obj\Debug\90\res\layout\files_upload.xml
+Button;obj\Debug\90\res\layout\home.xml
+Button;obj\Debug\90\res\layout\login.xml
+Button;obj\Debug\90\res\layout\register.xml
+cache-path;C:\Users\user\Desktop\3FinalAmbuTap\AmbuTap Driver\AmbuTap Driver\obj\Debug\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\90\res\drawable\splash.xml
+color;obj\Debug\90\res\values\colors.xml
+color;obj\Debug\90\res\values\ic_launcher_background.xml
+com.google.android.gms.maps.SupportMapFragment;obj\Debug\90\res\layout\home.xml
+com.google.maps.android.ui.RotationLayout;C:\Users\user\Desktop\3FinalAmbuTap\AmbuTap Driver\AmbuTap Driver\obj\Debug\90\lp\0\jl\res\layout\amu_text_bubble.xml
+com.ittianyu.bottomnavigationviewex.BottomNavigationViewEx;obj\Debug\90\res\layout\activity_main.xml
+corners;obj\Debug\90\res\drawable\loginroundbutton.xml
+corners;obj\Debug\90\res\drawable\registerroundbutton.xml
+corners;obj\Debug\90\res\drawable\roundbutton_offline.xml
+corners;obj\Debug\90\res\drawable\roundbutton_online.xml
+corners;obj\Debug\90\res\drawable\roundedges.xml
+declare-styleable;C:\Users\user\Desktop\3FinalAmbuTap\AmbuTap Driver\AmbuTap Driver\obj\Debug\90\lp\3\jl\res\values\values.xml
+EditText;obj\Debug\90\res\layout\login.xml
+EditText;obj\Debug\90\res\layout\register.xml
+external-cache-path;C:\Users\user\Desktop\3FinalAmbuTap\AmbuTap Driver\AmbuTap Driver\obj\Debug\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-files-path;obj\Debug\90\res\xml\file_paths.xml
+external-path;C:\Users\user\Desktop\3FinalAmbuTap\AmbuTap Driver\AmbuTap Driver\obj\Debug\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+fragment;obj\Debug\90\res\layout\home.xml
+FrameLayout;obj\Debug\90\res\layout\home.xml
+gradient;obj\Debug\90\res\drawable\loginroundbutton.xml
+gradient;obj\Debug\90\res\drawable\registerroundbutton.xml
+gradient;obj\Debug\90\res\drawable\roundbutton_offline.xml
+gradient;obj\Debug\90\res\drawable\roundbutton_online.xml
+ImageButton;obj\Debug\90\res\layout\home.xml
+ImageView;obj\Debug\90\res\layout\account.xml
+ImageView;obj\Debug\90\res\layout\collect_payment.xml
+ImageView;obj\Debug\90\res\layout\files_upload.xml
+ImageView;obj\Debug\90\res\layout\home.xml
+ImageView;obj\Debug\90\res\layout\newrequest_dialogue.xml
+item;C:\Users\user\Desktop\3FinalAmbuTap\AmbuTap Driver\AmbuTap Driver\obj\Debug\90\lp\0\jl\res\values\values.xml
+item;obj\Debug\90\res\drawable\loginroundbutton.xml
+item;obj\Debug\90\res\drawable\registerroundbutton.xml
+item;obj\Debug\90\res\drawable\roundbutton_offline.xml
+item;obj\Debug\90\res\drawable\roundbutton_online.xml
+item;obj\Debug\90\res\drawable\splash.xml
+item;obj\Debug\90\res\menu\bottomnav.xml
+item;obj\Debug\90\res\values\styles.xml
+layer-list;obj\Debug\90\res\drawable\loginroundbutton.xml
+layer-list;obj\Debug\90\res\drawable\registerroundbutton.xml
+layer-list;obj\Debug\90\res\drawable\roundbutton_offline.xml
+layer-list;obj\Debug\90\res\drawable\roundbutton_online.xml
+layer-list;obj\Debug\90\res\drawable\splash.xml
+LinearLayout;C:\Users\user\Desktop\3FinalAmbuTap\AmbuTap Driver\AmbuTap Driver\obj\Debug\90\lp\0\jl\res\layout\amu_info_window.xml
+LinearLayout;C:\Users\user\Desktop\3FinalAmbuTap\AmbuTap Driver\AmbuTap Driver\obj\Debug\90\lp\0\jl\res\layout\amu_text_bubble.xml
+LinearLayout;obj\Debug\90\res\layout\account.xml
+LinearLayout;obj\Debug\90\res\layout\activity_main.xml
+LinearLayout;obj\Debug\90\res\layout\collect_payment.xml
+LinearLayout;obj\Debug\90\res\layout\earnings.xml
+LinearLayout;obj\Debug\90\res\layout\files_upload.xml
+LinearLayout;obj\Debug\90\res\layout\home.xml
+LinearLayout;obj\Debug\90\res\layout\login.xml
+LinearLayout;obj\Debug\90\res\layout\newrequest_dialogue.xml
+LinearLayout;obj\Debug\90\res\layout\progress.xml
+LinearLayout;obj\Debug\90\res\layout\rating.xml
+LinearLayout;obj\Debug\90\res\layout\register.xml
+menu;obj\Debug\90\res\menu\bottomnav.xml
+padding;obj\Debug\90\res\drawable\loginroundbutton.xml
+padding;obj\Debug\90\res\drawable\registerroundbutton.xml
+padding;obj\Debug\90\res\drawable\roundbutton_offline.xml
+padding;obj\Debug\90\res\drawable\roundbutton_online.xml
+paths;C:\Users\user\Desktop\3FinalAmbuTap\AmbuTap Driver\AmbuTap Driver\obj\Debug\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+paths;obj\Debug\90\res\xml\file_paths.xml
+ProgressBar;obj\Debug\90\res\layout\files_upload.xml
+ProgressBar;obj\Debug\90\res\layout\progress.xml
+Refractored.Controls.CircleImageView;obj\Debug\90\res\layout\account.xml
+Refractored.Controls.CircleImageView;obj\Debug\90\res\layout\login.xml
+Refractored.Controls.CircleImageView;obj\Debug\90\res\layout\register.xml
+RelativeLayout;obj\Debug\90\res\layout\account.xml
+RelativeLayout;obj\Debug\90\res\layout\activity_main.xml
+RelativeLayout;obj\Debug\90\res\layout\files_upload.xml
+RelativeLayout;obj\Debug\90\res\layout\home.xml
+RelativeLayout;obj\Debug\90\res\layout\login.xml
+RelativeLayout;obj\Debug\90\res\layout\newrequest_dialogue.xml
+RelativeLayout;obj\Debug\90\res\layout\register.xml
+resources;C:\Users\user\Desktop\3FinalAmbuTap\AmbuTap Driver\AmbuTap Driver\obj\Debug\90\googsvcsjson\values\goog_svcs_json.xml
+resources;C:\Users\user\Desktop\3FinalAmbuTap\AmbuTap Driver\AmbuTap Driver\obj\Debug\90\lp\0\jl\res\values\values.xml
+resources;C:\Users\user\Desktop\3FinalAmbuTap\AmbuTap Driver\AmbuTap Driver\obj\Debug\90\lp\3\jl\res\values\values.xml
+resources;obj\Debug\90\res\values\colors.xml
+resources;obj\Debug\90\res\values\ic_launcher_background.xml
+resources;obj\Debug\90\res\values\strings.xml
+resources;obj\Debug\90\res\values\styles.xml
+selector;obj\Debug\90\res\drawable\loginroundbutton.xml
+selector;obj\Debug\90\res\drawable\registerroundbutton.xml
+selector;obj\Debug\90\res\drawable\roundbutton_offline.xml
+selector;obj\Debug\90\res\drawable\roundbutton_online.xml
+shape;obj\Debug\90\res\drawable\loginroundbutton.xml
+shape;obj\Debug\90\res\drawable\registerroundbutton.xml
+shape;obj\Debug\90\res\drawable\roundbutton_offline.xml
+shape;obj\Debug\90\res\drawable\roundbutton_online.xml
+shape;obj\Debug\90\res\drawable\roundedges.xml
+solid;obj\Debug\90\res\drawable\roundedges.xml
+string;C:\Users\user\Desktop\3FinalAmbuTap\AmbuTap Driver\AmbuTap Driver\obj\Debug\90\googsvcsjson\values\goog_svcs_json.xml
+string;obj\Debug\90\res\values\strings.xml
+stroke;obj\Debug\90\res\drawable\loginroundbutton.xml
+stroke;obj\Debug\90\res\drawable\registerroundbutton.xml
+stroke;obj\Debug\90\res\drawable\roundbutton_offline.xml
+stroke;obj\Debug\90\res\drawable\roundbutton_online.xml
+stroke;obj\Debug\90\res\drawable\roundedges.xml
+style;C:\Users\user\Desktop\3FinalAmbuTap\AmbuTap Driver\AmbuTap Driver\obj\Debug\90\lp\0\jl\res\values\values.xml
+style;obj\Debug\90\res\values\styles.xml
+TextView;C:\Users\user\Desktop\3FinalAmbuTap\AmbuTap Driver\AmbuTap Driver\obj\Debug\90\lp\0\jl\res\layout\amu_info_window.xml
+TextView;C:\Users\user\Desktop\3FinalAmbuTap\AmbuTap Driver\AmbuTap Driver\obj\Debug\90\lp\0\jl\res\layout\amu_text_bubble.xml
+TextView;obj\Debug\90\res\layout\account.xml
+TextView;obj\Debug\90\res\layout\collect_payment.xml
+TextView;obj\Debug\90\res\layout\earnings.xml
+TextView;obj\Debug\90\res\layout\files_upload.xml
+TextView;obj\Debug\90\res\layout\home.xml
+TextView;obj\Debug\90\res\layout\login.xml
+TextView;obj\Debug\90\res\layout\newrequest_dialogue.xml
+TextView;obj\Debug\90\res\layout\progress.xml
+TextView;obj\Debug\90\res\layout\rating.xml
+TextView;obj\Debug\90\res\layout\register.xml
+View;obj\Debug\90\res\layout\account.xml
+View;obj\Debug\90\res\layout\collect_payment.xml
+View;obj\Debug\90\res\layout\files_upload.xml
+View;obj\Debug\90\res\layout\newrequest_dialogue.xml
+WebView;C:\Users\user\Desktop\3FinalAmbuTap\AmbuTap Driver\AmbuTap Driver\obj\Debug\90\lp\0\jl\res\layout\amu_webview.xml

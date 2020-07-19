@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AmbuTap_Driver</string>
+    <string name="action_settings">Settings</string>
+    <string name="click_here">Not Registered? Register</string>
+    <string name="click_login">Already have an account? Login</string>
+    <!--<string name="mapkey">AIzaSyARIcUMeAFFjMLCIgMy35_9zJvd_VySi9I</string>-->
+    <string name="mapkey">AIzaSyCPIYMQmXx4B9txY95SF4I5fFlvmEdaXc0</string>
+
+
+  <!--register-->
+  <string name="AmbuDriver">AMBUTAP DRIVER</string>
+  <string name="fullname">Full name</string>
+  <string name="phone">Phone</string>
+  <string name="email">Email</string>
+  <string name="password">Password</string>
+  <string name="registerButtonText">REGISTER</string>
+
+  <!--login-->
+  <string name="loginButtonText">LOGIN</string>
+  
+    <!--crashlytics  <string name="com.crashlytics.android.build_id">crashlytics06</string> -->
+  
+
+
+
+
+
+</resources>

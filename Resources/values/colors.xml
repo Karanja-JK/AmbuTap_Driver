@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#031526</color>
+  <color name="colorPrimaryDark">#010215</color>
+  <color name="colorAccent">#3498db</color>
+  <color name="mainBackground">#000</color>
+  <color name="AmbutapPrimary">#1C4258</color>
+  <color name="splashBackground">#ff0</color>
+  <color name="onlineGreen">#21ce5d</color>
+  <color name="offlineRed">#ff0000</color> 
+  <color name="grey">#DCDCDC</color>
+
+  <!--register-->
+  <color name="textColor">#000</color>
+  <color name="buttonTextColor">#fff</color>
+
+
+  <!--
+  <color name="AmbutapPrimary">#1C4258</color>
+  <color name="AmbutapAccentColor">#EE861F</color>
+  <color name="AmbutapPrimaryDark">#102A38</color>-->
+</resources>

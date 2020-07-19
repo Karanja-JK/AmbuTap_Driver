@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "330320210378",
+    "firebase_url": "https://ambutap-fd06c.firebaseio.com",
+    "project_id": "ambutap-fd06c",
+    "storage_bucket": "ambutap-fd06c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330320210378:android:004db3a411a16e07734733",
+        "android_client_info": {
+          "package_name": "com.companyname.ambutap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330320210378-jr3j6noh02fqkliad05vedor7493hk7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB130IeurG8F7hM-ky1S8J2-7q6lUlTkQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330320210378-jr3j6noh02fqkliad05vedor7493hk7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330320210378:android:4c5b24b33c4bc433734733",
+        "android_client_info": {
+          "package_name": "com.companyname.ambutap_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330320210378-jr3j6noh02fqkliad05vedor7493hk7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB130IeurG8F7hM-ky1S8J2-7q6lUlTkQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330320210378-jr3j6noh02fqkliad05vedor7493hk7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
