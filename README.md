@@ -8,6 +8,15 @@ AmbuTap Driver is part of a comprehensive ambulance hailing system designed to a
 
 This system addresses the critical gap in emergency medical response where the average response time is 2-3 hours compared to the WHO recommended 15-20 minutes.
 
+The AmbuTap Ecosystem
+The full system includes several distinct components working together:
+- AmbuTap User App: The patient-facing application for requesting an ambulance.
+- AmbuTap Driver App: This application, for use by ambulance drivers.
+- Admin Dashboard: A web-based panel for managing drivers, users, and system operations.
+
+
+AI Health Bot: A chatbot integrated to provide users with basic medical information and assistance.
+
 ## Features
 
 ### Core Functionality
