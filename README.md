@@ -6,7 +6,7 @@ A real-time ambulance driver application built for the AmbuTap emergency medical
 
 AmbuTap Driver is part of a comprehensive ambulance hailing system designed to address Kenya's emergency medical response challenges. The application provides ambulance drivers with tools to manage trip requests, navigate to patients, and coordinate with the central dispatch system.
 
-Built during a final year Computer Science project at the University of Nairobi, this system addresses the critical gap in emergency medical response where the average response time is 2-3 hours compared to the WHO recommended 15-20 minutes.
+This system addresses the critical gap in emergency medical response where the average response time is 2-3 hours compared to the WHO recommended 15-20 minutes.
 
 ## Features
 
