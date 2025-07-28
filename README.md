@@ -1,6 +1,7 @@
 # AmbuTap Driver
 
 A real-time ambulance driver application built for the AmbuTap emergency medical response system. This Android application enables ambulance drivers to receive, manage, and complete emergency medical transport requests efficiently.
+Why AmbuTap? Ambulance(Ambu) at the (Tap) of your screen. Hence, AmbuTap. Cool right?
 
 ## Overview
 
